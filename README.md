@@ -90,15 +90,7 @@ te invito a visitar mi protafolio para ver mis proyectos y mi biografia completa
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" 
 />
-<!-- Excel -->
-<img 
-    align="left" 
-    alt="Excel" 
-    title="Excel" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.simpleicons.org/microsoftexcel/217346" 
-/>
+
 <!-- Excel (Usando CDN oficial de Simple Icons) -->
 <img 
     align="left" 
@@ -106,7 +98,7 @@ te invito a visitar mi protafolio para ver mis proyectos y mi biografia completa
     title="Excel" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.simpleicons.org/microsoftexcel/107C41" 
+    src="https://www.svgrepo.com/show/373836/microsoft-excel.svg" 
 />
 
 <!-- XAMPP (Usando SVG de repositorio directo) -->
@@ -117,6 +109,16 @@ te invito a visitar mi protafolio para ver mis proyectos y mi biografia completa
     width="30px" 
     style="padding-right: 10px;" 
     src="https://www.svgrepo.com/show/354575/xampp.svg" 
+/>
+
+<!-- Ubuntu -->
+<img 
+    align="left" 
+    alt="Ubuntu" 
+    title="Ubuntu" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" 
 />
 
 <br/>
