@@ -250,12 +250,14 @@ te invito a visitar mi protafolio para ver mis proyectos y mi biografia completa
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" 
 />
-<!-- Opción Insignia Badge -->
+<!-- Excel (Icono SVG directo funcional en GitHub) -->
 <img 
     align="left" 
     alt="Excel" 
     title="Excel" 
-    src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.simpleicons.org/microsoftexcel/217346" 
 />
 <img 
     align="left" 
