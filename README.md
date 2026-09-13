@@ -99,23 +99,24 @@ te invito a visitar mi protafolio para ver mis proyectos y mi biografia completa
     style="padding-right: 10px;" 
     src="https://cdn.simpleicons.org/microsoftexcel/217346" 
 />
-<!-- XAMPP -->
+<!-- Excel (Usando CDN oficial de Simple Icons) -->
+<img 
+    align="left" 
+    alt="Excel" 
+    title="Excel" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.simpleicons.org/microsoftexcel/107C41" 
+/>
+
+<!-- XAMPP (Usando SVG de repositorio directo) -->
 <img 
     align="left" 
     alt="XAMPP" 
     title="XAMPP" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xampp/xampp-original.svg" 
-/>
-<!-- Ubuntu -->
-<img 
-    align="left" 
-    alt="Ubuntu" 
-    title="Ubuntu" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" 
+    src="https://www.svgrepo.com/show/354575/xampp.svg" 
 />
 
 <br/>
