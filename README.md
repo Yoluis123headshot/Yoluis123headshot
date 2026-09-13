@@ -250,14 +250,14 @@ te invito a visitar mi protafolio para ver mis proyectos y mi biografia completa
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" 
 />
-<!-- Excel (Icono SVG directo funcional en GitHub) -->
+<!-- Excel (Cargado directamente desde CDN estático de GitHub) -->
 <img 
     align="left" 
     alt="Excel" 
     title="Excel" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.simpleicons.org/microsoftexcel/217346" 
+    src="https://raw.githubusercontent.com/sempostma/office365-icons/master/svg/excel.svg" 
 />
 <img 
     align="left" 
