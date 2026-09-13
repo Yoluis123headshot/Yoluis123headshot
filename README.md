@@ -3,6 +3,7 @@
 Soy un desarrollador full-stack apasionado por transformar ideas complejas en experiencias digitales inmersivas y funcionales, así como en bases de datos escalables y robustas. He desarrollado proyectos con C# y Laravel, y he mejorado la optimización y robustez de sistemas como sitios web informativos y sistemas de gestión de información dinámica utilizando PHP, SQL Server y otras tecnologías. Mi metodología aplica las prácticas, técnicas y herramientas que guían el proceso de desarrollo de software, desde la planificación hasta la entrega final. A veces profundizo demasiado, pero he aprendido a priorizar el valor sobre la perfección. Si hay algo que aún no he utilizado, lo investigaré para resolver el problema. Mis intereses personales son crear soluciones, desarrollar ideas en sistemas robustos y aprender continuamente sobre nuevas tecnologías.
 
 te invito a visitar mi protafolio para ver mis proyectos y mi biografia completa⬇️⬇️
+
 📌"[Portafolio Personal](https://portafolio-gamma-sage.vercel.app/)".
 
 
