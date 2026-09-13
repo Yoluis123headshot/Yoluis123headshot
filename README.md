@@ -14,7 +14,7 @@ te invito a visitar mi protafolio para ver mis proyectos y mi biografia completa
     align="left" 
     alt="C" 
     title="C" 
-    width="50px" 
+    width="40px" 
     style="padding-right: 30px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
